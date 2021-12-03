@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Qaisar-Ali
 - 👀 I’m interested in Web development, App development, Artificial Intelligence, Machine Learing and Deep Learing.
-- 🌱 I’m currently working on Angular 12.
-- 📫 How to reach me 
--   Email: qaisar.ali@probaseapps.com || im.qaisaralirandhawa@gmail.com 
-- My Linkedin Profile:    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="qaisar-ali-randhawa-0659a81a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/qaisar-ali-randhawa-0659a81a1?trk=profile-badge">Qaisar Ali Randhawa</a></div>
+- 🌱 I’m currently working on Angular 12 
